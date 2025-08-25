@@ -28,7 +28,7 @@ Tiene un ave, a veces es Pepón, a veces es Pepita, por lo tanto tiene que enten
  Entiende el mensaje *alimentar*, que recibe un alimento por parámetro. Al recibir este mensaje roque alimenta a su ave. 
 
 Ejemplos:
-- Si tiene a pepona con energía de 30, y recibe el mensaje alimentar(alpiste) pepon queda con 40 de energía
+- Si tiene a pepon con energía de 30, y recibe el mensaje alimentar(alpiste) pepon queda con 40 de energía
 - Si tiene a pepita con energía de 100 y recibe el mensaje alimentar(alpiste) pepita queda con 120 de energía.
 
 ### Cenas
